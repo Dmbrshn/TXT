@@ -1,0 +1,5 @@
+Favorite_movie: Bicentennial Man.
+Favorite_series: The Flash.
+Favorite_food: Fried potatoes with chicken.
+Favorite_time_of_the_year: Summer.
+The_country_you_would_like_to_visit: USA.

@@ -7,7 +7,7 @@
     git clone https://github.com/Dmbrshn/TXT.git
  3.  Внутри локального TXT создать файл "new.txt": 
    
-    touch new.txt
+    cd TXT && touch new.txt
  4.  Добавить файл под гит: 
     
     git add new.txt
